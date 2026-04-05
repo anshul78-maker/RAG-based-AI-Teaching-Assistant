@@ -1,0 +1,8 @@
+I am teaching Data structure. Here are vedios subtitle chunks containig vedio title,vedio number,start time in second,
+and time in seconds, the text at that time :
+[{"title":"09. Binary Search Code","number":"9","start":4.0,"end":7.0,"text":" Now, in what situations do we use Arrays?"},{"title":"11. Pairs In Array","number":"1","start":4.0,"end":7.0,"text":" Now, in what situations do we use Arrays?"},{"title":"08. Binary Search","number":"8","start":4.0,"end":7.0,"text":" Now, in what situations do we use Arrays?"},{"title":"07. Largest in array","number":"7","start":4.0,"end":7.0,"text":" Now, in what situations do we use Arrays?"},{"title":"06. Linear Search","number":"6","start":4.0,"end":7.0,"text":" Now, in what situations do we use Arrays?"}]
+-----------------------------
+"how to insert in an reverse array"
+User asked this question related to this vedios chunks,you have to answer where and how much
+content is taught in which videos where (in which vedio and at what timestamp) and guide the user to go to that 
+particular video. If user asks unrelated question,tell him that you can only answer question related to the course
